@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 my name is Mohamad Rosstom
+- 🌱 I’m currently learning how to automate file handling, backups, monitoring using Python, i will also learn to work with APIs and use Python with linux. I also inteand to showcase all my work as i go along my independant journey to becoming a DevOps engineer!
+- so far I know the basics of python, C, C++, and Tkinter.
+- 💬 Ask me about my goals
+- 📫 How to reach me: www.linkedin.com/in/mohamad-rosstom
+- ⚡ Fun fact: I genuinely love to learn new things.
 <!--
 **Mo-codes7/Mo-codes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
