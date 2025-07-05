@@ -1,6 +1,7 @@
 ## Hi there 👋 my name is Mohamad Rosstom
-- 🌱 I’m currently learning how to automate file handling, backups, monitoring using Python, I will also learn to work with APIs and use Python with linux. I also intend to showcase all my work as I go along my independant journey to becoming a DevOps engineer!
-- So far I know the basics of Python, C, C++, and Tkinter.
+- 🔭 I’m currently working on a Checklist website and my aim is to focus on its simplicity and ensuring its user-friendly.
+- 🌱 I’m currently learning how to automate file handling, backups, monitoring using Python, I will also learn to work with APIs and use Python with linux. I also intend to showcase all my work as I go along my independant journey to becoming a Developer!
+- So far I know HTML, CSS, Java, Python, C and, C++.
 - 💬 Ask me about my goals
 - 📫 How to reach me: www.linkedin.com/in/mohamad-rosstom
 - ⚡ Fun fact: I genuinely love to learn new things.
